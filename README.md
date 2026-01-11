@@ -14,16 +14,16 @@ I enjoy building data-driven applications, solving algorithmic problems, and con
 ## 🛠️ Skills & Technologies
 
 **Programming Languages**
-- Python, SQL, JavaScript  
+- Python, SQL  
 
 **Data Science & AI**
 - Pandas, NumPy, Matplotlib, Seaborn  
-- Scikit-learn, TensorFlow (Basics)  
+- Scikit-learn  
 - Machine Learning & Data Analysis  
 
 **Web & Backend**
 - Flask  
-- HTML, CSS, JavaScript  
+- HTML, CSS  
 
 **Tools & Platforms**
 - Git & GitHub  
@@ -57,8 +57,8 @@ I enjoy building data-driven applications, solving algorithmic problems, and con
 
 ## 📫 Contact
 - 📧 Email: dyadav221718@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/diwakar  
-- 🌐 Portfolio: https://yourportfolio.com  
+- 💼 LinkedIn:https: www.linkedin.com/in/diwakar-yadav-58aba7284  
+- 🌐 Portfolio: 
 
 ---
 
