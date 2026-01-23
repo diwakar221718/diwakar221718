@@ -14,7 +14,7 @@ I enjoy building data-driven applications, solving algorithmic problems, and con
 ## 🛠️ Skills & Technologies
 
 **Programming Languages**
-- Python, SQL  
+- Python, SQL ,C++
 
 **Data Science & AI**
 - Pandas, NumPy, Matplotlib, Seaborn  
