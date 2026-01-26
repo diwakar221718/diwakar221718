@@ -19,10 +19,11 @@ I enjoy building data-driven applications, solving algorithmic problems, and con
 **Data Science & AI**
 - Pandas, NumPy, Matplotlib, Seaborn  
 - Scikit-learn  
-- Machine Learning & Data Analysis  
+- Machine Learning & Data Analysis
+- Analytical thinking And Problem solving
 
 **Web & Backend**
-- Flask  
+- Flask ,streamlit ,Django
 - HTML, CSS  
 
 **Tools & Platforms**
