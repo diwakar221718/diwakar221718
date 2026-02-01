@@ -33,8 +33,7 @@ I enjoy building data-driven applications, solving algorithmic problems, and con
 
 ---
 
-## 📂 Projects
-- **Data Analysis Project** – Exploratory Data Analysis using Python  
+## 📂 Projects  
 - **Machine Learning Model** – Predictive modeling with Scikit-learn  
 - **Flask Web App** – ML model deployment using Flask  
 
