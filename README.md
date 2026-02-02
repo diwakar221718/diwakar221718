@@ -57,7 +57,8 @@ I enjoy building data-driven applications, solving algorithmic problems, and con
 
 ## 📫 Contact
 - 📧 Email: dyadav221718@gmail.com  
-- 💼 LinkedIn:https: www.linkedin.com/in/diwakar-yadav-58aba7284  
+- 💼 LinkedIn:https: www.linkedin.com/in/diwakar-yadav-58aba7284
+- 📊 Kaggle: https://www.kaggle.com/dy221718
 - 🌐 Portfolio: 
 
 ---
