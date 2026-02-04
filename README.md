@@ -34,8 +34,11 @@ I enjoy building data-driven applications, solving algorithmic problems, and con
 ---
 
 ## 📂 Projects  
-- **Machine Learning Model** – Predictive modeling with Scikit-learn  
-- **Flask Web App** – ML model deployment using Flask  
+### 🎓 Student Placement Prediction Web App
+- ML-powered Flask application using Logistic & Linear Regression
+- Tech Stack: Python, Scikit-learn, Flask <br>
+🔗 Live: https://render-first-ml-project.onrender.com/ <br>
+🔗 GitHub Repo: https://github.com/diwakar221718/first-ml_project
 
 ---
 
