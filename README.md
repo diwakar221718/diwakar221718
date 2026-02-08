@@ -35,7 +35,7 @@ I enjoy building data-driven applications, solving algorithmic problems, and con
 
 ## 📂 Projects  
 ### 🎓 Student Placement Prediction Web App
-- ML-powered Flask application using Logistic & Linear Regression
+- ML-powered Flask application using Logistic Regression
 - Tech Stack: Python, Scikit-learn, Flask <br>
 🔗 Live: https://render-first-ml-project.onrender.com/ <br>
 🔗 GitHub Repo: https://github.com/diwakar221718/first-ml_project
