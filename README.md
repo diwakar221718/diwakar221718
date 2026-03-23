@@ -1,45 +1,69 @@
-## Hi there 👋 I'm Diwakar Yadav 👋  
+# Hi 👋, I'm Diwakar Yadav
 
-🎓 Computer Science (AI) Student | 💡 Data Science & AI Enthusiast  
-📍 India | 🌐 Open to internships & research opportunities  
+🎓 CSE-AI Student <br>
+📊 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast <br>
+💡 Passionate about building real-world data-driven solutions 
 
 ---
 
 ## 🚀 About Me
-I am a Computer Science student specializing in Artificial Intelligence with a strong interest in **Data Science, Machine Learning, and Generative AI**.  
-I enjoy building data-driven applications, solving algorithmic problems, and continuously learning new technologies.
+
+I am a Computer Science (AI) student passionate about building intelligent systems using data.  
+With a strong foundation in mathematics and problem-solving, I focus on applying Machine Learning techniques to solve real-world problems.
+
+- 🔍 Interested in Data Science, Machine Learning, and Artificial Intelligence.
+- 🛠️ Building machine learning models and data analysis projects to gain practical skills.
+- 📈 Continuously learning and improving through hands-on projects.
+- 🎯 Goal: To become a Data Scientist / Machine Learning Engineer and build impactful solutions . 
 
 ---
+## 🛠️ Skills 
 
-## 🛠️ Skills & Technologies
-
-**Programming Languages**
-- Python, SQL ,C++
-
-**Data Science & AI**
-- Pandas, NumPy, Matplotlib, Seaborn  
-- Scikit-learn  
-- Machine Learning & Data Analysis
-- Analytical thinking And Problem solving
-
-**Web & Backend**
-- Flask ,streamlit ,Django
-- HTML, CSS  
-
-**Tools & Platforms**
-- Git & GitHub  
-- Jupyter Notebook  
-- VS Code  
-
+### 💻 Programming 
+- Python
+- SQL
+- C++ (Data Structures & Algorithms)
+### 📊 Data Science
+- Data Cleaning & Analysis (NumPy, Pandas)  
+- Data Visualization (Matplotlib, Seaborn)  
+- Exploratory Data Analysis (EDA)  
+- Data Preprocessing & Feature Engineering  
+- Data Collection, Data Mining & Data Handling  
+### 🤖 Machine Learning
+- Supervised Learning (Regression & Classification) | Logistic Regression, Linear Regression, Naive Bayes, Decision Tree etc 
+- Model Evaluation Metrics (Accuracy, Precision, Recall, F1-score)  
+- Feature Engineering & Data Preprocessing  
+- Handling Overfitting & Regularization Techniques  
+- Basic understanding of model selection and workflow  
+### 📐 Mathematics
+- Statistics & Probability
+- Linear Algebra
+- Calculus
+### 🌐 Web & Backend 
+- Flask, Streamlit
+- HTML, CSS
+### 🧰 Tools & Platforms 
+- Git & GitHub
+- Jupyter Notebook ,VS Code
+---
+## 🧠 Core Computer Science Concepts 
+- Object-Oriented Programming (OOPs)
+- Database Management Systems (DBMS)
+- Data Structures & Algorithms
 ---
 
-## 📂 Projects  
-### 🎓 Student Placement Prediction Web App
-- ML-powered Flask application using Logistic Regression
-- Tech Stack: Python, Scikit-learn, Flask <br>
-🔗 Live: https://render-first-ml-project.onrender.com/ <br>
-🔗 GitHub Repo: https://github.com/diwakar221718/first-ml_project
+## 📌 Featured Projects
 
+- 🔹 **Student Placement Predictor** <br>
+     - Predicts student placement using Logistic Regression
+     - 🔗 Live: https://render-first-ml-project.onrender.com/
+     - 🔗 GitHub Repo: https://github.com/diwakar221718/first-ml_project  
+- 🔹 **Mobile Price Prediction** 
+     - Predicts mobile prices using Linear Regression
+     -  🔗 GitHub Repo: https://github.com/yourusername/mobile-price-prediction  
+- 🔹 **Email Spam Classifier**  
+     - Classifies spam emails using Naive Bayes
+     - 🔗 GitHub Repo: https://github.com/yourusername/email-spam-classifier  
 ---
 
 ## 📊 GitHub Stats
@@ -55,7 +79,6 @@ I enjoy building data-driven applications, solving algorithmic problems, and con
 - 📚 **Currently learning:** Mlops, deep learning, Generative AI.
 - 👦 **Ask me about:** Python,Python libraries,data analysis, SQL,machine learning.
 - 📫 **How to reach me:** dyadav221718@gmail.com
-
 ---
 
 ## 📫 Contact
@@ -65,8 +88,7 @@ I enjoy building data-driven applications, solving algorithmic problems, and con
 - 🌐 Portfolio: 
 
 ---
-
-⭐ Feel free to explore my repositories and connect with me!<br>
+⭐ Always learning, building, and improving<br>
 😄 Happy Learning
 
 <!--
