@@ -63,7 +63,8 @@ With a strong foundation in mathematics and problem-solving, I focus on applying
      -  🔗 GitHub Repo: https://github.com/yourusername/mobile-price-prediction  
 - 🔹 **Email Spam Classifier**  
      - Classifies spam emails using Naive Bayes
-     - 🔗 GitHub Repo: https://github.com/yourusername/email-spam-classifier  
+     - 🔗 GitHub Repo: https://github.com/diwakar221718/sms-Email_spam_classifier
+     - 🔗 Live: https://sms-email-spam-classifier-szro.onrender.com
 ---
 
 ## 📊 GitHub Stats
