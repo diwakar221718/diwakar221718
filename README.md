@@ -57,10 +57,8 @@ With a strong foundation in mathematics and problem-solving, I focus on applying
 - 🔹 **Student Placement Predictor** <br>
      - Predicts student placement using Logistic Regression
      - 🔗 Live: https://render-first-ml-project.onrender.com/
-     - 🔗 GitHub Repo: https://github.com/diwakar221718/first-ml_project  
-- 🔹 **Mobile Price Prediction** 
-     - Predicts mobile prices using Linear Regression
-     -  🔗 GitHub Repo: https://github.com/yourusername/mobile-price-prediction  
+     - 🔗 GitHub Repo: https://github.com/diwakar221718/first-ml_project
+     
 - 🔹 **Email Spam Classifier**  
      - Classifies spam emails using Naive Bayes
      - 🔗 GitHub Repo: https://github.com/diwakar221718/sms-Email_spam_classifier
