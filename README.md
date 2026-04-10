@@ -84,7 +84,7 @@ With a strong foundation in mathematics and problem-solving, I focus on applying
 - 📧 Email: dyadav221718@gmail.com  
 - 💼 LinkedIn:https: www.linkedin.com/in/diwakar-yadav-58aba7284
 - 📊 Kaggle: https://www.kaggle.com/dy221718
-- 🌐 Portfolio: 
+- 🌐 Portfolio: https://web-production-891ff.up.railway.app
 
 ---
 ⭐ Always learning, building, and improving<br>
