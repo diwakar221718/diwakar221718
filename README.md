@@ -1,8 +1,8 @@
 # Hi 👋, I'm Diwakar Yadav
 
 🎓 CSE-AI Student <br>
-📊 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast <br>
-💡 Passionate about building real-world data-driven solutions 
+📊 Aspiring Data Scientist & AI Engineer | 🤖 Machine Learning Enthusiast <br>
+💡 Passionate about building real-world data-driven solutions.
 
 ---
 
