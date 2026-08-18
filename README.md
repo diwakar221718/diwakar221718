@@ -84,20 +84,6 @@ AI-powered chatbot that answers questions from YouTube video transcripts using *
 
 ---
 
-### 🏢 Smart Office Assistant
-
-AI-powered workplace productivity assistant designed to automate common office tasks.
-
-- 🔹 Meeting Assistant
-- 🔹 Email Generator
-- 🔹 Document Assistant
-- 🔹 Task Management
-- 🔹 Built using **Gemini, Streamlit & AI-powered workflows**
-
-🔗 **GitHub:** [Smart Office Assistant](https://github.com/diwakar221718)
-
----
-
 ### 🎓 Student Placement Predictor
 
 Machine Learning application that predicts student placement outcomes using **Logistic Regression**.
