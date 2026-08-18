@@ -50,9 +50,7 @@ I'm a Computer Science (AI) student passionate about building intelligent soluti
 - Retrieval-Augmented Generation (RAG)
 - LangChain
 - Embeddings & Vector Search
-- Prompt Engineering
 - Deep Learning
-- Natural Language Processing (NLP)
 
 ### 🌐 Web & Deployment
 
@@ -137,10 +135,7 @@ Machine Learning application that classifies messages/emails as spam or legitima
 - Data Structures & Algorithms
 - Object-Oriented Programming (OOP)
 - Database Management Systems (DBMS)
-- Computer Networks
-- Operating Systems
 - Problem Solving
-
 ---
 
 ## 📚 Currently Learning
@@ -150,8 +145,6 @@ Machine Learning application that classifies messages/emails as spam or legitima
 - 🔗 LangChain & RAG
 - 🧩 Large Language Models
 - ⚙️ MLOps
-- 👁️ Computer Vision
-- 🗣️ Natural Language Processing
 
 ---
 
